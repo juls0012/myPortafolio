@@ -30,8 +30,8 @@ function Home(){
             <section id="infoContainer">
                 <div className="infoDiv">
                     <h4 className="infoDiv">Hi, I am Julian Fuentes</h4>
-                    <h1 id="types" className="infoDiv">Full stack developer & Software engineer</h1>
-                    <p id="pharase" className="infoDiv">I Create And Code Web Sites, And Learn More Each Day</p>
+                    <h1 id="types" className="infoDiv">Aerospace & Software engineer</h1>
+                    <p id="pharase" className="infoDiv">I love to code because if I can think it, I can make it a reality.</p>
                     
 
                 </div>

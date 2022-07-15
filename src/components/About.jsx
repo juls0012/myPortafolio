@@ -15,9 +15,10 @@ function About(){
             <div id = "cardInfo">
                 <h1>About</h1>
                 <h2>Who am i?</h2>
-                <p>I am Julian Fuentes, a software engineer, focus on full stack development (more interest on backend).
+                <p>I am Julian Fuentes, an aerospace and software engineer.
                 I love to work in team an learn new things each day. I am hardworker person that never gives up
-                and always tries to help others.</p>
+                and always tries to help others. I like to make robotics programs using Python with ROS and I'm still learing how to improve
+                my knowdleadge on the robotic enviroment</p>
                 <Button variant="outline-warning" size="lg">Download CV</Button>{' '}
             </div>
             <div id= "skillsInfo">

@@ -78,8 +78,12 @@ a.item{
     height: 400px;
     margin-bottom: 200px;
     margin-top: 60px;
-
+    transition: transform .2s;
     cursor: pointer;
+}
+.imgCarousel:hover{
+    transform: scale(1.1);
+
 }
 .titleCarousel{
     padding-top: 50px;;
@@ -159,6 +163,9 @@ hr {
 }
 .iconPopBtn{
     margin-right: 10px;
+}
+#formBtnInsidePopup{
+    display: inline-block;
 }
 /*Popup*/
 /* About Section */
